@@ -1,0 +1,4 @@
+-u AMI username
+-p aterisk AMI password
+-i aterisk IP address
+-dp asterisk MII port, default 5038
